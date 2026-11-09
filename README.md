@@ -3173,4 +3173,3 @@ The complete application startup sequence can be represented as:
 **PYTHON ENVIRONMENT → BACKEND API SERVER → GPS BRIDGE → ANDROID DEVICE / EMULATOR → FLUTTER APPLICATION → API COMMUNICATION → APPLICATION TESTING**
 
 Following this sequence allows the frontend and backend environments to operate together during development and testing.
-
